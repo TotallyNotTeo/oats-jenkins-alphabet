@@ -1,5 +1,5 @@
-# Oats Jenkins Alphabets
-Python scripts that turn your keyboard into all the new alphabets created by Oats Jenkins on youtube (FULL Credit to him)
+# Oats Jenkins Alphabet
+Python scripts that turn your keyboard into the new alphabet created by Oats Jenkins on youtube (FULL Credit to him)
 
 If you know how to use python:\
 Download the alphabet file and run as administrator (you must run from terminal if on mac)
